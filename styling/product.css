@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/background.svg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1 {
+    margin-top: 12rem;
+    color: #D3B714;
+    font-family: 'Raleway', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+}
